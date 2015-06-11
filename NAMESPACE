@@ -1,0 +1,2 @@
+export(sgRSEA, sgRSEA.mean, TCnormalize, UQnormalize, sgCount, plotScores, plotNScores)
+

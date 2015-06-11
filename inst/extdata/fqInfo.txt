@@ -1,0 +1,3 @@
+filepath	id	trimStart	trimStop
+test1.fastq	L1	0	20
+test2.fastq	CTRL	0	20
